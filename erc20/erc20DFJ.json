@@ -1,0 +1,618 @@
+[
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "erc20name": "Maker (MKR)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+      "erc20name": "ArcBlock (ABT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+      "erc20name": "Request (REQ)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+      "erc20name": "TenXPay (PAY)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xdd16ec0f66e54d453e6756713e533355989040e4",
+      "erc20name": "Tokenomy (TEN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2",
+      "erc20name": "HPBCoin (HPB)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xe8780b48bdb05f928697a5e8155f672ed91462f7",
+      "erc20name": "Cashaa (CAS)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xe2fb6529ef566a080e6d23de0bd351311087d567",
+      "erc20name": "Covesting (COV)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+      "erc20name": "Dai Stablecoin v1.0 (DAI)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x226bb599a12c826476e3a771454697ea52e9e220",
+      "erc20name": "Propy (PRO)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x9720b467a710382A232a32F540bDCed7d662a10B",
+      "erc20name": "Vezt (VZT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+      "erc20name": "BitMartToken (BMC)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+      "erc20name": "BLOCKMASON CREDIT PROTOCOL TOKEN (BCPT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "erc20name": "EnjinCoin (ENJ)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+      "erc20name": "CoinDash (CDT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xd01db73e047855efb414e6202098c4be4cd2423b",
+      "erc20name": "Uquid Coin (UQC)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1",
+      "erc20name": "DigiPulse (DGPT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x1122b6a0e00dce0563082b6e2953f3a943855c1f",
+      "erc20name": "Centrality Token (CENNZ)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+      "erc20name": "AidCoin (AID)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b",
+      "erc20name": "CUBE (AUTO)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265",
+      "erc20name": "NANJCOIN (NANJ)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x701c244b988a513c945973defa05de933b23fe1d",
+      "erc20name": "OpenANX (OAX)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d",
+      "erc20name": "Insights Network (INSTAR)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x52fb36c83ad33c1824912fc81071ca5eeb8ab390",
+      "erc20name": "Fidelium Token (FID)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+      "erc20name": "UniBright (UBT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xeda8b016efa8b1161208cf041cd86972eee0f31e",
+      "erc20name": "I HOUSE TOKEN (IHT)"
+    }
+  ],
+  [
+    {
+      "decimal": "4",
+      "address": "/token/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88",
+      "erc20name": "AstroTokens (ASTRO)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xaec98a708810414878c3bcdf46aad31ded4a4557",
+      "erc20name": "300 Token (300)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+      "erc20name": "Walton (WTC)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+      "erc20name": "Aeron (ARN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607",
+      "erc20name": "SwarmCity (SWT)"
+    }
+  ],
+  [
+    {
+      "decimal": "4",
+      "address": "/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+      "erc20name": "Everex (EVX)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96",
+      "erc20name": "PHI Token (PHI)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+      "erc20name": "Aurora DAO (AURA)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x5732046a883704404f284ce41ffadd5b007fd668",
+      "erc20name": "Bluzelle (BLZ)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+      "erc20name": "Spectre.ai D-Token (SXDT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+      "erc20name": "Aeternity (AE)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x89303500a7abfb178b274fd89f2469c264951e1f",
+      "erc20name": "RefToken (REF)"
+    }
+  ],
+  [
+    {
+      "decimal": "14",
+      "address": "/token/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+      "erc20name": "Berry (BERRY)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x2604fa406be957e542beb89e6754fcde6815e83f",
+      "erc20name": "Playkey (PKT)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x671abbe5ce652491985342e85428eb1b07bc6c64",
+      "erc20name": "Quantum (QAU)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x13f25cd52b21650caa8225c9942337d914c9b030",
+      "erc20name": "realchain (RCT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x8542325b72c6d9fc0ad2ca965a78435413a915a0",
+      "erc20name": "Oyster Shell (SHL)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "erc20name": "KyberNetwork (KNC)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+      "erc20name": "ELTCOIN (ELTCOIN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+      "erc20name": "Matryx (MTX)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
+      "erc20name": "Nuls (NULS)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+      "erc20name": "OCoin (OCN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x0abdace70d3790235af448c88547603b945604ea",
+      "erc20name": "district0x (DNT)"
+    }
+  ],
+  [
+    {
+      "decimal": "10",
+      "address": "/token/0xa33e729bf4fdeb868b534e1f20523463d9c46bee",
+      "erc20name": "ICO (¢)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xc86d054809623432210c107af2e3f619dcfbf652",
+      "erc20name": "SENTINEL PROTOCOL (UPP)"
+    }
+  ],
+  [
+    {
+      "decimal": "0",
+      "address": "/token/0x814964b1bceAf24e26296D031EaDf134a2Ca4105",
+      "erc20name": "Newbium (NEWB)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x9b68bfae21df5a510931a262cecf63f41338f264",
+      "erc20name": "Decent.Bet (DBET)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+      "erc20name": "SAN (SAN)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0xa8006c4ca56f24d6836727d106349320db7fef82",
+      "erc20name": "Internxt (INXT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x35a69642857083ba2f30bfab735dacc7f0bac969",
+      "erc20name": "BBN (BBN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
+      "erc20name": "Rock (RKT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+      "erc20name": "Opus (OPT)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+      "erc20name": "Ethereum Blue (BLUE)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903",
+      "erc20name": "YOYOW (YOYOW)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+      "erc20name": "MedToken (MTN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+      "erc20name": "Vibe Coin (VIBE)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+      "erc20name": "UpToken (UP)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+      "erc20name": "Blocktix (TIX)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b",
+      "erc20name": "EZToken (EZT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x1234567461d3f8db7496581774bd869c83d51c93",
+      "erc20name": "BitClave (CAT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
+      "erc20name": "FundYourselfNow (FYN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x0b4bdc478791897274652dc15ef5c135cae61e60",
+      "erc20name": "DAEX Token (DAX)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+      "erc20name": "QuarkChain Token (QKC)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x378903a03fb2c3ac76bb52773e3ce11340377a32",
+      "erc20name": "Clipper Coin Capital (CCCX)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x5e3346444010135322268a4630d2ed5f8d09446c",
+      "erc20name": "LockTrip (LOC)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
+      "erc20name": "EchoLink (EKO)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+      "erc20name": "NAGA Coin (NGC)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xf05a9382A4C3F29E2784502754293D88b835109C",
+      "erc20name": "REX - Real Estate tokens (REX)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
+      "erc20name": "Melon (MLN)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "erc20name": "EthLend (LEND)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "erc20name": "HuobiToken (HT)"
+    }
+  ],
+  [
+    {
+      "decimal": "12",
+      "address": "/token/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+      "erc20name": "Zilliqa (ZIL)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38",
+      "erc20name": "UTRUST (UTK)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x16f812be7fff02caf662b85d5d58a5da6572d4df",
+      "erc20name": "United Traders Token (UTT)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+      "erc20name": "DOVU (DOV)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970",
+      "erc20name": "NEVERDIE (NDC)"
+    }
+  ],
+  [
+    {
+      "decimal": "8",
+      "address": "/token/0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
+      "erc20name": "Crowd Machine Compute Token (CMCT)"
+    }
+  ],
+  [
+    {
+      "decimal": "6",
+      "address": "/token/0xf230b790e05390fc8295f4d3f60332c93bed42e2",
+      "erc20name": "Tronix (TRX)"
+    }
+  ],
+  [
+    {
+      "decimal": "0",
+      "address": "/token/0x06147110022b768ba8f99a8f385df11a151a9cc8",
+      "erc20name": "ACE (ACE)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x12759512d326303b45f1cec8f7b6fd96f387778e",
+      "erc20name": "TrakInvest Token (TRAK)"
+    }
+  ],
+  [
+    {
+      "decimal": "18",
+      "address": "/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+      "erc20name": "SIRIN (SRN)"
+    }
+  ],
+  [
+    {
+      "decimal": "6",
+      "address": "/token/0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c",
+      "erc20name": "TAAS (TAAS)"
+    }
+  ]
+]
